@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/imdbMovies/static/css/main.72d9cb6f.chunk.css",
+    "main.js": "/imdbMovies/static/js/main.5a5c375e.chunk.js",
+    "main.js.map": "/imdbMovies/static/js/main.5a5c375e.chunk.js.map",
+    "runtime-main.js": "/imdbMovies/static/js/runtime-main.14a8f26e.js",
+    "runtime-main.js.map": "/imdbMovies/static/js/runtime-main.14a8f26e.js.map",
+    "static/css/2.e5750c50.chunk.css": "/imdbMovies/static/css/2.e5750c50.chunk.css",
+    "static/js/2.b366c232.chunk.js": "/imdbMovies/static/js/2.b366c232.chunk.js",
+    "static/js/2.b366c232.chunk.js.map": "/imdbMovies/static/js/2.b366c232.chunk.js.map",
+    "static/js/3.1f863e58.chunk.js": "/imdbMovies/static/js/3.1f863e58.chunk.js",
+    "static/js/3.1f863e58.chunk.js.map": "/imdbMovies/static/js/3.1f863e58.chunk.js.map",
+    "index.html": "/imdbMovies/index.html",
+    "static/css/2.e5750c50.chunk.css.map": "/imdbMovies/static/css/2.e5750c50.chunk.css.map",
+    "static/css/main.72d9cb6f.chunk.css.map": "/imdbMovies/static/css/main.72d9cb6f.chunk.css.map",
+    "static/js/2.b366c232.chunk.js.LICENSE.txt": "/imdbMovies/static/js/2.b366c232.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14a8f26e.js",
+    "static/css/2.e5750c50.chunk.css",
+    "static/js/2.b366c232.chunk.js",
+    "static/css/main.72d9cb6f.chunk.css",
+    "static/js/main.5a5c375e.chunk.js"
+  ]
+}
